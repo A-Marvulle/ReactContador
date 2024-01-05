@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactcontador/static/css/main.96706deb.css",
-    "main.js": "/reactcontador/static/js/main.27e5c9f5.js",
-    "static/js/787.65cc65e6.chunk.js": "/reactcontador/static/js/787.65cc65e6.chunk.js",
-    "index.html": "/reactcontador/index.html",
-    "main.96706deb.css.map": "/reactcontador/static/css/main.96706deb.css.map",
-    "main.27e5c9f5.js.map": "/reactcontador/static/js/main.27e5c9f5.js.map",
-    "787.65cc65e6.chunk.js.map": "/reactcontador/static/js/787.65cc65e6.chunk.js.map"
+    "main.css": "/ReactContador/static/css/main.96706deb.css",
+    "main.js": "/ReactContador/static/js/main.12ee54ff.js",
+    "static/js/787.65cc65e6.chunk.js": "/ReactContador/static/js/787.65cc65e6.chunk.js",
+    "index.html": "/ReactContador/index.html",
+    "main.96706deb.css.map": "/ReactContador/static/css/main.96706deb.css.map",
+    "main.12ee54ff.js.map": "/ReactContador/static/js/main.12ee54ff.js.map",
+    "787.65cc65e6.chunk.js.map": "/ReactContador/static/js/787.65cc65e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96706deb.css",
-    "static/js/main.27e5c9f5.js"
+    "static/js/main.12ee54ff.js"
   ]
 }
